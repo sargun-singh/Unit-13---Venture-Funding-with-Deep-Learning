@@ -2,6 +2,7 @@
 This notebook contains a risk analysis of startups that have applied for funding. In order to determine whether or not certain applicants will be successful, a deep learning algorithm involving neural networks is used. The below show the results of various parameters.
 
 Parameters Used
+-
 The below were the parameters used for the different models.
 
 Model 1:
