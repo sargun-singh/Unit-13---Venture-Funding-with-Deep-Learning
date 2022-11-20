@@ -6,7 +6,7 @@ Parameters Used
 The below were the parameters used for the different models.
 
 Model 1:
--
+
 Input Features - 116
 Output Layer - 1
 Hidden Layer - 2
@@ -14,14 +14,14 @@ Nodes For Hidden Layer 1 - 58
 Nodes For Hidden Layer 2 - 29
 
 Model 2:
--
+
 Input Features - 116
 Output Layer - 1
 Hidden Layer - 1
 Nodes For Hidden Layer 1 - 78
 
 Model 3:
--
+
 Input Features - 116
 Output Layer - 1
 Hidden Layer - 1
