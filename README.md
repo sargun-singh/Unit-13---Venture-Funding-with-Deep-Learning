@@ -1,7 +1,5 @@
-# Unit-13---Venture-Funding-with-Deep-Learning
-Venture Funding With Deep Learning
+# Unit-13-Venture-Funding-with-Deep-Learning
 This notebook contains a risk analysis of startups that have applied for funding. In order to determine whether or not certain applicants will be successful, a deep learning algorithm involving neural networks is used. The below show the results of various parameters.
-
 
 Parameters Used
 The below were the parameters used for the different models.
@@ -33,15 +31,15 @@ The results after running each models.
 
 Model 1:
 
-268/268 - 0s - loss: 0.5546 - accuracy: 0.7297 - 170ms/epoch - 633us/step
-Loss: 0.5546098947525024, Accuracy: 0.72967928647995
+268/268 - 0s - loss: 0.5604 - accuracy: 0.7293 - 389ms/epoch - 1ms/step
+Loss: 0.5604270100593567, Accuracy: 0.7293294668197632
 
 Model 2:
 
-268/268 - 0s - loss: 0.5770 - accuracy: 0.7315 - 247ms/epoch - 920us/step
-Loss: 0.5770237445831299, Accuracy: 0.7315452098846436
+268/268 - 0s - loss: 0.5712 - accuracy: 0.7303 - 484ms/epoch - 2ms/step
+Loss: 0.5712165236473083, Accuracy: 0.7302623987197876
 
 Model 3:
 
-268/268 - 0s - loss: 0.6003 - accuracy: 0.7319 - 234ms/epoch - 873us/step
-Loss: 0.6003262400627136, Accuracy: 0.7318950295448303
+268/268 - 1s - loss: 0.5884 - accuracy: 0.7308 - 522ms/epoch - 2ms/step
+Loss: 0.5884376764297485, Accuracy: 0.7308454513549805
