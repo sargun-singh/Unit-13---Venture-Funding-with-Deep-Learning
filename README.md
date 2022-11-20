@@ -2,11 +2,11 @@
 This notebook contains a risk analysis of startups that have applied for funding. In order to determine whether or not certain applicants will be successful, a deep learning algorithm involving neural networks is used. The below show the results of various parameters.
 
 Parameters Used
---
+-
 The below were the parameters used for the different models.
 
 Model 1:
-
+-
 Input Features - 116
 Output Layer - 1
 Hidden Layer - 2
@@ -14,20 +14,21 @@ Nodes For Hidden Layer 1 - 58
 Nodes For Hidden Layer 2 - 29
 
 Model 2:
-
+-
 Input Features - 116
 Output Layer - 1
 Hidden Layer - 1
 Nodes For Hidden Layer 1 - 78
 
 Model 3:
-
+-
 Input Features - 116
 Output Layer - 1
 Hidden Layer - 1
 Nodes For Hidden Layer 1 - 117
 
 Results
+-
 The results after running each models.
 
 Model 1:
